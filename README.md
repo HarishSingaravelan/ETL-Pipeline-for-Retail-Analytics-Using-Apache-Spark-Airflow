@@ -153,10 +153,10 @@ Click on the Fork button at the top of the repository page to create a copy of t
 
 2. Clone Your Forked Repository
 ```
-git clone <https://git.rc.rit.edu/s25-dsci-644-harish/project-2>
+git clone https://github.com/HarishSingaravelan/ETL-Pipeline-for-Retail-Analytics-Using-Apache-Spark-Airflow
 ```
 ```
-cd <project-2>
+cd project-2
 ```
 3. Create a New Branch
 ```
@@ -177,18 +177,7 @@ git push origin feature-branch
 6. Create a Merge Request
 Go to your GitLab repository and submit a Merge Request to the main branch.
 
-## Authors and acknowledgment
-Special thanks to contributors and open-source community members for making this project possible.
 
-
-## License and Usage Restrictions
-
-Copyright © 2025 Zimeng Lyu. All rights reserved.
-
-This project was developed by Zimeng Lyu for the RIT DSCI-644 course, originally designed for GitLab CI/CD integration. It is shared publicly for portfolio and learning purposes.
-
-🚫 **Usage Restriction:**  
-This project **may not** be used as teaching material in any form (including lectures, assignments, or coursework) without explicit written permission from the author.
 
 📩 For inquiries regarding usage permissions, please contact Zimeng Lyu at zimenglyu@mail.rit.e
 
