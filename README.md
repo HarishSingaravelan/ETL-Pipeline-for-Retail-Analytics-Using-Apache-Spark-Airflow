@@ -1,8 +1,4 @@
-# Project-2
-
-
-## Name
-Batch processing of Candy store data.
+# Batch processing of Candy store data.
 
 ## Description
 This project implements a data pipeline using Apache Airflow. It is designed to automate workflows, including data extraction, transformation, and loading (ETL), as well as running model training tasks and evaluation. This project serves as an example for setting up an Airflow DAG and orchestrating data science tasks.
