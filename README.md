@@ -174,8 +174,5 @@ git push origin feature-branch
 Go to your GitLab repository and submit a Merge Request to the main branch.
 
 
-
-📩 For inquiries regarding usage permissions, please contact Zimeng Lyu at zimenglyu@mail.rit.e
-
 ## Project status
 This project is no longer actively maintained. If you're interested in contributing or taking over maintenance, please reach out via hs7569@g.rit.edu
